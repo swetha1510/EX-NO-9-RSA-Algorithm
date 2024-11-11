@@ -5,7 +5,6 @@ To Implement RSA Encryption Algorithm in Cryptography
 
 ## Algorithm:
 
-
 Step 1: Design of RSA Algorithm  
 The RSA algorithm is based on the mathematical difficulty of factoring the product of two large prime numbers. It involves generating a public and private key pair, where the public key is used for encryption, and the private key is used for decryption.
 
@@ -138,10 +137,7 @@ int main() {
     return 0;
 }
 ```
-
 ## Output:
-
 ![Screenshot 2024-11-11 203255](https://github.com/user-attachments/assets/df3d8704-b98e-47f3-a6de-0d66a7ca1594)
-
 ## Result:
  The program is executed successfully.
