@@ -1,8 +1,6 @@
 # EX-NO-9-RSA-Algorithm
-
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
-
 ## Algorithm:
 
 Step 1: Design of RSA Algorithm  
